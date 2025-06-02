@@ -1,1 +1,2 @@
-# DUA-D2C
+# Dynamic Uncertainty-Aware Divide2Conquer (DUA-D2C)
+This repository contains codes on the implementation of DUA-D2C, a novel technique designed to address Overfitting. The separate folders contain samples of different types of experiments on different datasets from different domains. Our experiments were performed using Google Colab. Both A100 and V100 GPUs were used. We used TensorFlow 2.12.1 for the implementations.
