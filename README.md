@@ -91,15 +91,15 @@ The code is organized into Jupyter/Colab notebooks (`.ipynb`) for each key exper
 
 If you find this work useful in your research, please consider citing our paper:
 
-@INPROCEEDINGS{siddiqui2024d2c,\
-  author={Bari Siddiqui, Md. Saiful and Mohaiminul Islam, Md and Rabiul Alam, Md. Golam},\
-  booktitle={2024 IEEE International Conference on Big Data (BigData)},\
-  title={Divide2Conquer (D2C): A Decentralized Approach Towards Overfitting Remediation in Deep Learning},\ 
-  year={2024},\
-  volume={},\
-  number={},\
-  pages={1458-1463},\
-  doi={10.1109/BigData62323.2024.10826082}}
+@article{siddiqui2025duad2c,
+      title={DUA-D2C: Dynamic Uncertainty Aware Method for Overfitting Remediation in Deep Learning},\
+      author={Md. Saiful Bari Siddiqui and Md Mohaiminul Islam and Md. Golam Rabiul Alam},\
+      year={2025},\
+      eprint={2411.15876},\
+      archivePrefix={arXiv},\
+      primaryClass={cs.LG},\
+      url={https://arxiv.org/abs/2411.15876}, 
+}
 
 ---
 
