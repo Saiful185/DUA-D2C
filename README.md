@@ -91,7 +91,7 @@ The code is organized into Jupyter/Colab notebooks (`.ipynb`) for each key exper
 
 If you find this work useful in your research, please consider citing our paper:
 
-@article{siddiqui2025duad2c,
+@article{siddiqui2025duad2c,\
       title={DUA-D2C: Dynamic Uncertainty Aware Method for Overfitting Remediation in Deep Learning},\
       author={Md. Saiful Bari Siddiqui and Md Mohaiminul Islam and Md. Golam Rabiul Alam},\
       year={2025},\
