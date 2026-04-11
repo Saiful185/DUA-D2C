@@ -94,12 +94,12 @@ If you find this work useful in your research, please consider citing our paper:
 ```bibtex
 @article{siddiqui2025duad2c,
       title={DUA-D2C: Dynamic Uncertainty Aware Method for Overfitting Remediation in Deep Learning},
-      author={Md. Saiful Bari Siddiqui and Md Mohaiminul Islam and Md. Golam Rabiul Alam},
-      year={2025},
-      eprint={2411.15876},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2411.15876}, 
+      author={Siddiqui, M. S. B. and Islam, M. M. and Alam, M. G. R.},
+      year={2026},
+      volume={12},
+      pages={149},
+      doi={10.1007/s40747-026-02251-1},
+      url={https://doi.org/10.1007/s40747-026-02251-1}
 }
 ```
 
